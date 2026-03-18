@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="Exerc&#237;cio 2"/>
+        <attribute name="authors" value="I1D46B"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2026-03-18 02:27:05 "/>
+        <attribute name="created" value="STFENDZCO0VDRlA1MDdEMTI2MzYxMjsyMDI2LTAzLTE4OyIwMjoxOTozMSAiOzI0MjI="/>
+        <attribute name="edited" value="STFENDZCO0VDRlA1MDdEMTI2MzYxMjsyMDI2LTAzLTE4OyIwMjoyNzowNSAiOzE7MjUzMA=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="Numero1, Numero2, soma" type="Integer" array="False" size=""/>
+            <output expression="&quot;Digite um n&#250;mero: &quot;" newline="True"/>
+            <input variable="Numero1"/>
+            <output expression="&quot;Agora, digite um segundo numero: &quot;" newline="True"/>
+            <input variable="Numero2"/>
+            <assign variable="soma" expression="Numero1 + Numero2"/>
+            <output expression="&quot;A soma desses dois numeros &#233;: &quot; &amp; soma" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
