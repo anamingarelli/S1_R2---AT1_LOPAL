@@ -1,4 +1,4 @@
-*Atividades em formato em formato de fluxograma:*
+# *Atividades em formato em formato de fluxograma:*
 
 Exercício 1 → Desenvolvido para ler o nome do usuário e, a partir disso, exibir uma saudação personalizada.
 
